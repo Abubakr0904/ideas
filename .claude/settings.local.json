@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npx expo install:*)",
+      "Bash(npx expo start:*)",
+      "Bash(setx:*)",
+      "Bash(netstat:*)",
+      "Bash(findstr:*)",
+      "Bash(taskkill:*)",
+      "Bash(powershell:*)",
+      "Bash(.gradlew.bat app:assembleDebug:*)",
+      "Bash(java -version:*)"
+    ]
+  }
+}
